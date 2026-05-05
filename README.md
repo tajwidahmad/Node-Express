@@ -1,0 +1,1 @@
+This repository contains my hands-on learning and implementation of backend development using Express.js. It focuses on building scalable server-side applications, understanding core concepts, and solving real-world problems through APIs and middleware.
